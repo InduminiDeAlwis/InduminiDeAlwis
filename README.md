@@ -1,19 +1,74 @@
-<h1 align="center">Hi 👋, I'm Indumini De Alwis</h1>
-<h3 align="center">2nd Year IT Undergraduate Student</h3>
+# Hi, I'm Indumini De Alwis! 👋
 
+🎓 **3rd Year IT Undergraduate**  
+University of Moratuwa, Sri Lanka
 
-- 🔭 I’m currently working on **ATG healthcare mobile Application**
+---
 
-- 🌱 I’m currently learning **Full stack Development**
+## 🚀 About Me
+Passionate about building impactful digital solutions that blend technology and design. I thrive on full-stack development, accessibility innovation, and UI/UX design. My projects focus on healthcare tech, real-time accessibility tools, and portfolio showcasing, reflecting my drive for efficiency, inclusivity, and modern design.
 
-- 👯 I’m looking to collaborate on **Web development projects**
+---
 
-- 📫 How to reach me **induminialwis27@gmail.com**
+## 🛠️ Skills & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/indumini de alwis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indumini de alwis" height="30" width="40" /></a>
-</p>
+- **Programming Languages:** Java, JavaScript, Python, C  
+- **Front-end:** React.js, Next.js, Bootstrap, Tailwind CSS  
+- **Back-end:** Node.js / Express, Serverless, Spring Boot  
+- **Databases:** MySQL, MSSQL, MongoDB, PostgreSQL  
+- **Cloud Platforms:** AWS  
+- **UI/UX Design:** Figma, Canva  
+- **Version Control:** Git, GitHub  
+- **AI & ML:** GPT-4.1, Claude Sonnet 4  
+- **Project Management:** Jira  
+- **Other:** Postman, Arduino, GIMP, Prototyping, Wireframing, Sketching, Usability Testing, User Research
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
+
+## 🌟 Featured Projects
+
+### [ATG Healthcare Plan Manager](GITHUB link) | [Live Demo](Live Demo Link)
+Digitizes patient intake, care planning, and progress monitoring for healthcare providers, patients, and caregivers.  
+**Roles:** Full-Stack Developer, Mobile App Developer, UI/UX Designer  
+**Tech:** Figma, React Native, Node.js (Serverless), Firebase/MongoDB, GitHub
+
+### [Wavewords - Real-Time SLSL Translator](GITHUB link)
+Sri Lankan Sign Language translation system for accessibility, converting hand gestures into text/speech.  
+**Roles:** Front-end Developer  
+**Tech:** Python (OpenCV, MediaPipe, TensorFlow, Scikit-learn, NumPy), Flutter, pyttsx3, Tkinter/Streamlit
+
+### [Indumini’s Portfolio](Figma Link) | [Live Website](Live website Link)
+Personal portfolio website designed in Figma and built with React.js (Vite), Tailwind CSS, and Web3Forms.  
+**Roles:** Front-end Developer  
+**Tech:** React.js, Figma, GitHub, Tailwind CSS
+
+---
+
+## 📊 GitHub Stats
+
+![InduminiDeAlwis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InduminiDeAlwis&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InduminiDeAlwis&layout=compact&theme=radical)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=InduminiDeAlwis&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=InduminiDeAlwis&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 🧑‍💻 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/indumini-de-alwis-05a5b4277/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square)](https://github.com/InduminiDeAlwis)
+
+---
+
+## 🎨 Interests & Hobbies
+
+- UI/UX Designing
+- Computer Networking
+- Blog Writing
+- Travelling 🌏
+- Singing 🎶
+- Hiking 🥾
+
+---
+
+> “Design for impact. Code for change.”
